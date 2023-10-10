@@ -1,4 +1,4 @@
-# MPU6050 and Servo Motor Control
+# HAND MOTION CONTROLLED ROBOTIC ARM
 
 This project demonstrates the integration of the MPU6050 gyroscope and accelerometer sensor with a microcontroller to control servo motors based on the sensor readings. 
 
@@ -24,21 +24,21 @@ Additionally, flex sensors are employed to add an extra layer of control, enabli
 
 # Components
 
-**STM 32 Nucleo F401RE**
+**-STM 32 Nucleo F401RE**
 
-**MPU6050 sensor**
+**-MPU6050 sensor**
 
-**Servo motors**
+**-Servo motors**
 
-**Flex sensors**
+**-Flex sensors**
 
-**Resistors**
+**-Resistors**
 
-**LED**
+**-LED**
 
-**Breadboard**
+**-Breadboard**
 
-**Connecting wires**
+**-Connecting wires**
 
 # How to Use
 
